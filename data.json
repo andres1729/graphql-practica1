@@ -1,0 +1,25 @@
+{
+    "cursos": [
+        {
+            "id":1,
+            "title": "EGA",
+            "autor": "A. Grothendieck",
+            "topic": "geometria algebraica",
+            "url": "https://webusers.imj-prg.fr/~leila.schneps/mitanni/grothendieckcircle/"
+        },
+        {
+            "id": 2,
+            "title": "SGA",
+            "autor": "A. Grothendieck",
+            "topic": "geometria algebraica",
+            "url": "https://webusers.imj-prg.fr/~leila.schneps/mitanni/grothendieckcircle/"
+        },
+        {
+            "id": 3,
+            "title": "FGA",
+            "autor": "A. Grothendieck",
+            "topic": "geometria algebraica",
+            "url": "https://webusers.imj-prg.fr/~leila.schneps/mitanni/grothendieckcircle/"
+        }
+    ]
+}
